@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "Application1", "Application1\Application1.dxjsproj", "{E32A5374-7F00-4EBB-8D3A-478E73794F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32A5374-7F00-4EBB-8D3A-478E73794F98}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E32A5374-7F00-4EBB-8D3A-478E73794F98}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
