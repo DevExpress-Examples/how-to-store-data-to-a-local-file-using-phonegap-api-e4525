@@ -1,7 +1,0 @@
-<div data-options="dxView : { name: 'home', title: 'Home' } " >
-    <div class="home-view dx-content-background"  data-options="dxContent : { targetPlaceholder: 'content' } " >
-        <div data-bind="dxTextBox: { value: txtValue }"></div>
-        <div data-bind="dxButton: { text: 'Write data', onClick: onButtonWriteClick }"></div>  
-        <div data-bind="dxButton: { text: 'Read data', onClick: onButtonReadClick }"></div>  
-    </div>
-</div>

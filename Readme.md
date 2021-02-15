@@ -1,11 +1,3 @@
-# How to store data to a local file using PhoneGap API
+# This example is obsolete
 
-
-<p>This example demonstrates how to store data to a local file using PhoneGap API. To access a corresponding API, it is necessary to add a link to the <strong>cordova.js</strong> file.</p><p><strong>This example can be tested only on a mobile device.</strong></p><p><strong>See also:<br />
-</strong><a href="http://docs.phonegap.com/en/2.4.0/cordova_file_file.md.html#File"><u>PhoneGap Documentation - File</u></a><br />
-<a href="https://www.devexpress.com/Support/Center/p/KA18680">How to build a native package in Visual Studio</a><u><br />
-</u><a href="https://www.devexpress.com/Support/Center/p/KA18744">How to test PhoneGap API via the Courier tool</a></p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
